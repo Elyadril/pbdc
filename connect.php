@@ -9,7 +9,7 @@ $site->style='tooltipster';
 $site->style='perso';
 $controleur=new controleur();
 $site-> right_sidebar=$site->rempli_right_sidebar();
-$site-> left_sidebar=$controleur->retourne_formulaire_login();
+$site-> left_sidebar=$controleur->retourne_formulaire_();
 
 
 $site->affiche();
