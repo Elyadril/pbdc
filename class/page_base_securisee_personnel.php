@@ -17,7 +17,7 @@ class page_base_securisee_personnel extends page_base {
 		
 		<li><a href="">Ajouter un commentaire</a>
 				<ul>
-
+                                select(count(bite) from anus
 				</ul>
 			</li>
 	
